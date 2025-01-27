@@ -1,5 +1,3 @@
-The implementation of **A.high.summit** will follow a structured, incremental approach to ensure functionality, scalability, and maintainability. Below are the key steps:
-
 ### Step 1: Initial Setup
 
 1. Set up the development environment:
