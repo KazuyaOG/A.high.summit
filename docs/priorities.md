@@ -1,5 +1,3 @@
-**A.high.summit** are outlined below using the MoSCoW framework to prioritize features and functionalities:
-
 ### 1. Must-Have
 
 - A modern, user-friendly graphical user interface (GUI) with light/dark mode.
