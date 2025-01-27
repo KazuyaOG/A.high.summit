@@ -1,6 +1,6 @@
 **A.high.summit** are outlined below using the MoSCoW framework to prioritize features and functionalities:
 
-### 2.1. Must-Have
+### 1. Must-Have
 
 - A modern, user-friendly graphical user interface (GUI) with light/dark mode.
     
@@ -21,7 +21,7 @@
 - Platform compatibility with Windows 11.
     
 
-### 2.2. Should-Have
+### 2. Should-Have
 
 - AI-driven recommendations for creating engaging multimedia content, such as:
     
@@ -36,7 +36,7 @@
 - Ability to provide short and long-term growth plans for SEO strategies.
     
 
-### 2.3. Could-Have
+### 3. Could-Have
 
 - Advanced AI tools for professional clickbait generation and subconscious marketing tricks.
     
@@ -47,7 +47,7 @@
 - Integration with APIs of platforms like YouTube, Instagram, X, and Facebook for direct uploads or metadata analysis.
     
 
-### 2.4. Won’t-Have (for now)
+### 4. Won’t-Have (for now)
 
 - Full-fledged support for operating systems beyond Windows 11.
     
